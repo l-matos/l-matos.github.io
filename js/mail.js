@@ -1,1 +1,1 @@
-window.open('mail.google.com','_self')
+window.open('https://mail.google.com','_self')
