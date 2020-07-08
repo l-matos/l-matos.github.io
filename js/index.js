@@ -1,0 +1,1 @@
+window.open('https://github.com/l-matos','_self')
