@@ -1,0 +1,1 @@
+window.open('mail.google.com','_self')
