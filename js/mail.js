@@ -1,1 +1,0 @@
-window.open('https://mail.google.com','_self')
